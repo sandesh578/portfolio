@@ -18,21 +18,25 @@ function About() {
             <h1 className='about_heading'>About Me</h1>
             <div className='about_meta'>
               <p className='about_text p_color'>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                I'm an experienced software engineer who constantly seeks out
+                innovative solutions to everyday problems. In my seven years in
+                this industry, I've honed my analytical thinking and
+                collaboration skills, and I love working with a team. I've also
+                had the opportunity to serve as the software engineer lead for
+                three projects with First Technology.
               </p>
               <p className='about_text p_color'>
+                Before my current position, I was a junior software engineer
+                with Mobile First. While working there, I committed to mobile
+                system development, which has been my specialty for seven years.
+                I understand that a major part of this role with your firm
+                focuses on leading mobile development teams, which my previous
+                experience has certainly prepared me for.
+              </p>
+              {/* <p className='about_text p_color'>
                 There are many variations of passages of Lorem Ipsum available,
                 but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
-              </p>
-              <p className='about_text p_color'>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-              </p>
+              </p> */}
               <div className='about_button d_flex align_items_center'>
                 <a href='#'>
                   <button className='about btn pointer cv'>Download Cv</button>
